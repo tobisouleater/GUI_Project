@@ -1,6 +1,5 @@
 """
 Toby Au
-Final Project
 Cross Platform - user customizable eBook
 """
 
