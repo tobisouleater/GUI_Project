@@ -11,9 +11,6 @@ from tkinter import *
 - include a clock
 """
 
-#write description about project in 3 lines and send to professor
-
-#book = open(textfile .split())
 """
 shelf = shelve.open('Books')
 shelf['sample'] = book
