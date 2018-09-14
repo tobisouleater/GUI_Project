@@ -1,1 +1,1 @@
-# GUI Project
+# Ebook
